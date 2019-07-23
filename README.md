@@ -1,3 +1,3 @@
-# Automatic-Plant-Monitoring-System
+# Smart-Plant-Monitoring-System
 
-A project on plant monitoring using Raspberry PI3 and a web app developed using django framework for interacting with various actuators to regulate water supply for a plant remotely.
+Smart Plant Monitoring System} (Using Raspberry pi and Django framework)\newline The values of soil moisture, temperature etc which are captured using sensors, are processed using raspberry pi into MySQL database hosted in digital ocean for real time monitoring of the plant condition. The web app was developed using Django and bootstrap.
